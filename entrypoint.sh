@@ -1,3 +1,4 @@
 #!/usr/bin/env sh
 
-mono "/docfx/docfx.exe" "$@"
+# mono "/docfx/docfx.exe" "$@"
+echo "hii"
