@@ -1,4 +1,4 @@
-name: docfx-action
+name: docfx-pdf-action
 description: 'Runs docfx as a GitHub Action with pdf support - cloned from nikeee/docfx-action.'
 
 runs:
