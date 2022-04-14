@@ -1,0 +1,10 @@
+name: docfx-action
+description: 'Runs docfx as a GitHub Action with pdf support - cloned from nikeee/docfx-action.'
+
+runs:
+  using: docker
+  image: 'docker://vakuware/docfx-pdf-action:latest'
+
+branding:
+  icon: book
+  color: green
