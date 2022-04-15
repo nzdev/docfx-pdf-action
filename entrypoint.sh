@@ -1,4 +1,9 @@
 #!/usr/bin/env sh
 
-# mono "/docfx/docfx.exe" "$@"
-echo "hii"
+
+#echo "$(uname --all)"
+#echo "$(ls)"
+mono "/docfx/docfx.exe" "$@"
+# echo "hii"
+# echo "$(ls)"
+# echo "$(ls /)"
