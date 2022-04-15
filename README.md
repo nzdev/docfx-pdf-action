@@ -1,6 +1,6 @@
 # DocFX pdf action
 
-This action is a clone of [docfx-action](https://github.com/nikeee/docfx-action/blob/master/action.yml) by [Niklas Mollenhauer](https://github.com/nikeee) aiming to give better support for pdf file creation
+This action is a clone of [docfx-action](https://github.com/marketplace/actions/docfx-action) by [Niklas Mollenhauer](https://github.com/nikeee) aiming to give better support for pdf file creation
 
 ## Software
 - [Dockerimage](https://hub.docker.com/r/vakuware/docfx-pdf-action/tags) version 1.3
