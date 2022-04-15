@@ -3,7 +3,7 @@ description: 'Runs docfx as a GitHub Action with pdf support - cloned from nikee
 
 runs:
   using: docker
-  image: 'docker://vakuware/docfx-pdf-action:latest'
+  image: 'docker://vakuware/docfx-pdf-action:1.3'
 
 branding:
   icon: book
